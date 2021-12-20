@@ -1,0 +1,9 @@
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Debug\PatternTransformateTool.exe.config
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Debug\PatternTransformateTool.exe
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Debug\PatternTransformateTool.pdb
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\obj\Debug\PatternTransformateTool.exe
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\obj\Debug\PatternTransformateTool.pdb
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\obj\Debug\PatternTransformateTool.csprojResolveAssemblyReference.cache
+D:\Yves\projects\20190924_SMI 轉pattern tools\ForGit\PatternTransformateTool\bin\Debug\PatternTransformateTool.exe.config
+D:\Yves\projects\20190924_SMI 轉pattern tools\ForGit\PatternTransformateTool\obj\Debug\PatternTransformateTool.exe
+D:\Yves\projects\20190924_SMI 轉pattern tools\ForGit\PatternTransformateTool\obj\Debug\PatternTransformateTool.pdb

@@ -1,0 +1,5 @@
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Release\PatternTransformateTool.exe.config
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Release\PatternTransformateTool.exe
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\bin\Release\PatternTransformateTool.pdb
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\obj\Release\PatternTransformateTool.exe
+D:\Yves\projects\20190924_SMI 轉pattern tools\PatternTransformateTool\PatternTransformateTool\obj\Release\PatternTransformateTool.pdb
